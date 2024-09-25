@@ -1,5 +1,6 @@
 # AI4Research
-Related papers about AI tools or algorithms for Scientific Research
+
+Related AI papers and tools for Scientific Research
 
 ## Survey
 
