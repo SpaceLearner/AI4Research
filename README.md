@@ -27,3 +27,5 @@ Related AI papers and tools for Scientific Research
 ## AI for Experiment Design
 
 * The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2408.06292)][[code](https://github.com/SakanaAI/AI-Scientist)]
+
+## Tools 
