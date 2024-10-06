@@ -20,6 +20,8 @@ Related AI papers and tools for Scientific Research
 
 * Evaluating and Enhancing Large Language Models for Novelty Assessment in Scholarly Publications (**ARIXV, 2024**) [[paper](https://arxiv.org/pdf/2409.16605)]
 
+* Generation and human-expert evaluation of interesting research ideas using knowledge graphs and large language models (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2405.17044)]
+
 ## AI for Literature Review
 
 * AI-assisted peer review (**HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS, 2021**) [[paper](https://www.nature.com/articles/s41599-020-00703-8.pdf)]
