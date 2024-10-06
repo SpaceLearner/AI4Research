@@ -44,4 +44,6 @@ Related AI papers and tools for Scientific Research
 
 * BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science (**ARIXV, 2024**) [[paper](https://arxiv.org/pdf/2407.00466)]
 
+* Large Language Models as Evaluators for Scientific Synthesis (**ICML Workshop, 2024**) [[paper](https://arxiv.org/pdf/2407.02977)]
+
 ## Tools 
