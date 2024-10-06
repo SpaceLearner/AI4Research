@@ -16,6 +16,10 @@ Related AI papers and tools for Scientific Research
 
 * Collective Predictive Coding as Model of Science: Formalizing Scientific Activities Towards Generative Science (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2409.00102)]
 
+* Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2409.14634)]
+
+* Evaluating and Enhancing Large Language Models for Novelty Assessment in Scholarly Publications (**ARIXV, 2024**) [[paper](https://arxiv.org/pdf/2409.16605)]
+
 ## AI for Literature Review
 
 * AI-assisted peer review (**HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS, 2021**) [[paper](https://www.nature.com/articles/s41599-020-00703-8.pdf)]
@@ -23,6 +27,8 @@ Related AI papers and tools for Scientific Research
 * The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2408.06292)][[code](https://github.com/SakanaAI/AI-Scientist)]
 
 * AI-Driven Review Systems: Evaluating LLMs in Scalable and Bias-Aware Academic Reviews (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2408.10365)]
+
+* Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2410.02713)]
 
 ## AI for Experiment Design
 
