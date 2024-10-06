@@ -38,6 +38,8 @@ Related AI papers and tools for Scientific Research
 
 * BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science (**ARIXV, 2024**) [[paper](https://arxiv.org/pdf/2407.00466)]
 
+* Automating Research Synthesis with Domain-specific Large Language Model Fine-tuning (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2404.08680v1)]
+
 ## AI for Experiment Design
 
 * The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2408.06292)][[code](https://github.com/SakanaAI/AI-Scientist)]
