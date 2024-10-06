@@ -6,6 +6,8 @@ Related AI papers and tools for Scientific Research
 
 * Science in the age of large language models (**Nature Reviews Physics, 2023**) [[paper](https://www.nature.com/articles/s42254-023-00581-4.pdf)]
 
+* Artificial intelligence and illusions of understanding in scientific research (**Nature Perspective, 2024**) [[paper](https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/65f071f8fd3e3b478a4f4b86/1710256633821/Messeri%26Crockett_2024_Nature.pdf)]
+
 ## AI for Research Idea Generation
 
 * Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2409.04109)][[code](https://github.com/NoviScl/AI-Researcher)]
