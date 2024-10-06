@@ -48,4 +48,10 @@ Related AI papers and tools for Scientific Research
 
 * Large Language Models as Evaluators for Scientific Synthesis (**ICML Workshop, 2024**) [[paper](https://arxiv.org/pdf/2407.02977)]
 
+## AI for Scientific Synthesis
+
+* Large Language Models for Scientific Synthesis, Inference and Explanation (**ARXIV, 2023**) [[paper](https://arxiv.org/pdf/2310.07984)]
+
+* Automating Research Synthesis with Domain-specific Large Language Model Fine-tuning (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2404.08680v1)]
+
 ## Tools 
