@@ -48,7 +48,9 @@ Related AI papers and tools for Scientific Research
 
 * BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science (**ARIXV, 2024**) [[paper](https://arxiv.org/pdf/2407.00466)]
 
-## AI for Experiment Design
+## AI for Experiment
+
+* LLMs for Science: Usage for Code Generation and Data Analysis (**ARXIV, 2023**)[[paper](https://arxiv.org/pdf/2311.16733v3)] 
 
 * The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2408.06292)][[code](https://github.com/SakanaAI/AI-Scientist)]
 
