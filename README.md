@@ -16,7 +16,7 @@ Related AI papers and tools for Scientific Research
 
 * Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2409.04109)][[code](https://github.com/NoviScl/AI-Researcher)]
 
-* Can Large Language Models Unlock Novel Scientific Research Ideas? (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2409.06185)]
+* Can Large Language Models Unlock Novel Scientific Research Ideas? (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2409.06185)][[code](https://github.com/sandeep82945/Future-Idea-Generation)]
 
 * PersonaFlow: Boosting Research Ideation with LLM-Simulated Expert Personas (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2409.12538)]
 
@@ -38,6 +38,8 @@ Related AI papers and tools for Scientific Research
 
 * AI-assisted peer review (**HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS, 2021**) [[paper](https://www.nature.com/articles/s41599-020-00703-8.pdf)]
 
+* LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2406.16253)][[dataset](https://github.com/jiangshdd/ReviewCritique)]
+
 * The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2408.06292)][[code](https://github.com/SakanaAI/AI-Scientist)]
 
 * AI-Driven Review Systems: Evaluating LLMs in Scalable and Bias-Aware Academic Reviews (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2408.10365)]
@@ -45,8 +47,6 @@ Related AI papers and tools for Scientific Research
 * Gaps or Hallucinations? Gazing into Machine-Generated Legal Analysis for Fine-grained Text Evaluations (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2410.02713)]
 
 * BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science (**ARIXV, 2024**) [[paper](https://arxiv.org/pdf/2407.00466)]
-
-* Automating Research Synthesis with Domain-specific Large Language Model Fine-tuning (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2404.08680v1)]
 
 ## AI for Experiment Design
 
