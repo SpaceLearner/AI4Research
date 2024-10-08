@@ -8,9 +8,15 @@ Related AI papers and tools for Scientific Research
 
 * Artificial intelligence and illusions of understanding in scientific research (**Nature Perspective, 2024**) [[paper](https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/65f071f8fd3e3b478a4f4b86/1710256633821/Messeri%26Crockett_2024_Nature.pdf)]
 
-## AI for Research Idea Generation
+## AI for Research Ideation
+
+* How AI Processing Delays Foster Creativity: Exploring Research Question Co-Creation with an LLM-based Agent (**CHI, 2024**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642698)]
+
+* Jamplate: Exploring LLM-Enhanced Templates for Idea Reflection (**IUI, 2024**) [[paper](https://dl.acm.org/doi/pdf/10.1145/3640543.3645196)]
 
 * Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2409.04109)][[code](https://github.com/NoviScl/AI-Researcher)]
+
+* Can Large Language Models Unlock Novel Scientific Research Ideas? (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2409.06185)]
 
 * PersonaFlow: Boosting Research Ideation with LLM-Simulated Expert Personas (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2409.12538)]
 
