@@ -38,7 +38,7 @@ Related AI papers and tools for Scientific Research
 
 * AI-assisted peer review (**HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS, 2021**) [[paper](https://www.nature.com/articles/s41599-020-00703-8.pdf)]
 
-* LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2406.16253)][[dataset](https://github.com/jiangshdd/ReviewCritique)]
+* LLMs Assist NLP Researchers: Critique Paper (Meta-)Reviewing (**EMNLP, 2024**) [[paper](https://arxiv.org/pdf/2406.16253)][[dataset](https://github.com/jiangshdd/ReviewCritique)]
 
 * The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery (**ARXIV, 2024**) [[paper](https://arxiv.org/pdf/2408.06292)][[code](https://github.com/SakanaAI/AI-Scientist)]
 
