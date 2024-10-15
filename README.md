@@ -1,6 +1,6 @@
-# AI4Research
+# LLM4Research
 
-Related AI papers and tools for Scientific Research
+Related LLM papers and tools for Scientific Research
 
 ## Survey
 
