@@ -36,6 +36,8 @@ Related LLM papers and tools for Scientific Research
 
 * Literature Meets Data: A Synergistic Approach to Hypothesis Generation (**ARXIV, 2024**) [paper[https://arxiv.org/pdf/2410.17309]][code[https://github.com/ChicagoHAI/hypothesis-generation]]
 
+* Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas [[paper](https://arxiv.org/pdf/2410.14255)]
+
 ## AI for Literature Review
 
 * AI-assisted peer review (**HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS, 2021**) [[paper](https://www.nature.com/articles/s41599-020-00703-8.pdf)]
