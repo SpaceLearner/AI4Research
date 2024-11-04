@@ -34,6 +34,8 @@ Related LLM papers and tools for Scientific Research
 
 * Autonomous Generalist Scientist: Towards and Beyond Human-level Automatic Research Using Foundation Model-Based AI Agents and Robots (A Position) [[paper](https://www.researchgate.net/profile/Starkson-Zhang/publication/383213197_Autonomous_Generalist_Scientist_Towards_and_Beyond_Human-level_Automatic_Research_Using_Foundation_Model-Based_AI_Agents_and_Robots_A_Position/links/66c22db32ff54d6c9edba9f4/Autonomous-Generalist-Scientist-Towards-and-Beyond-Human-level-Automatic-Research-Using-Foundation-Model-Based-AI-Agents-and-Robots-A-Position.pdf)]
 
+* Literature Meets Data: A Synergistic Approach to Hypothesis Generation (**ARXIV, 2024**) [paper[https://arxiv.org/pdf/2410.17309]][code[https://github.com/ChicagoHAI/hypothesis-generation]]
+
 ## AI for Literature Review
 
 * AI-assisted peer review (**HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS, 2021**) [[paper](https://www.nature.com/articles/s41599-020-00703-8.pdf)]
